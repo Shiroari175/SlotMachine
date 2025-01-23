@@ -281,7 +281,7 @@ namespace SlotMachine
             }
 
 
-            //所持金１Bit以下の場合ゲームオーバー
+            //所持金１Bet以下の場合ゲームオーバー
             if(totalMoney <= ONE_GAME_MONEY)
             {
                 //lbTotalMoney.Text = "0";
